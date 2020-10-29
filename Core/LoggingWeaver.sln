@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patcher", "Patcher\Patcher.csproj", "{3DB87E78-D22F-4FA7-BD12-1D230A28B1CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extensions", "Extensions\Extensions.csproj", "{DFB238E3-5A7E-453B-89B5-E6A6E4B6067C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB87E78-D22F-4FA7-BD12-1D230A28B1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB87E78-D22F-4FA7-BD12-1D230A28B1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB87E78-D22F-4FA7-BD12-1D230A28B1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB87E78-D22F-4FA7-BD12-1D230A28B1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB238E3-5A7E-453B-89B5-E6A6E4B6067C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB238E3-5A7E-453B-89B5-E6A6E4B6067C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB238E3-5A7E-453B-89B5-E6A6E4B6067C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB238E3-5A7E-453B-89B5-E6A6E4B6067C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E06F8C-964B-45C6-82CB-910A13A82A88}
+	EndGlobalSection
+EndGlobal
